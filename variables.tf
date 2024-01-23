@@ -1,0 +1,3 @@
+variable "rgid" {
+  type = string
+}
